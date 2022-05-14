@@ -1,5 +1,12 @@
-body > .container{
+body>.container {
     margin: 20px;
     padding: 20px;
     border-style: none;
+}
+
+.card>img {
+    margin: 0.8rem;
+    padding: 0.8rem;
+    height: 20vh;
+    object-fit: contain;
 }
