@@ -10,3 +10,12 @@ body>.container {
     height: 20vh;
     object-fit: contain;
 }
+
+.Page{
+    display: table;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
