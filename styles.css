@@ -4,22 +4,6 @@ body>.container {
     border-style: none;
 }
 
-.card>img {
-    margin: 0.8rem;
-    padding: 0.8rem;
-    height: 20vh;
-    object-fit: contain;
-}
-
-.Page{
-    display: table;
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
 .bg-gray{
     background-color: gray;
 }
