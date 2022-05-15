@@ -1,0 +1,25 @@
+body>.container {
+    margin: 20px;
+    padding: 20px;
+    border-style: none;
+}
+
+.card>img {
+    margin: 0.8rem;
+    padding: 0.8rem;
+    height: 20vh;
+    object-fit: contain;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+.bg-indigo{
+    background-color: indigo;
+}
+.bg-gray{
+    background-color: lightgray;
+}
+.text{
+    text-decoration-color: lightgray;
+}
