@@ -20,6 +20,16 @@ body>.container {
 .bg-gray{
     background-color: lightgray;
 }
-.text{
-    text-decoration-color: lightgray;
+
+.text-y{
+    color: rgb(232, 202, 52);
+}
+.text-o{
+    color: orange;
+}
+.text-i{
+    color: indigo;
+}
+.text-p{
+    color: blue;
 }
